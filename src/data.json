@@ -163,5 +163,35 @@
     "location": "Worldwide",
     "languages": ["JavaScript"],
     "tools": ["Ruby", "Sass"]
+  },
+  {
+    "id": 12,
+    "company": "Shortly",
+    "logo": "./images/shortly.svg",
+    "new": false,
+    "featured": false,
+    "position": "Junior Developer",
+    "role": "Frontend",
+    "level": "Junior",
+    "postedAt": "2w ago",
+    "contract": "Full Time",
+    "location": "Worldwide",
+    "languages": ["HTML", "JavaScript"],
+    "tools": ["Sass"]
+  },
+  {
+    "id": 6,
+    "company": "FaceIt",
+    "logo": "./images/faceit.svg",
+    "new": false,
+    "featured": false,
+    "position": "Junior Backend Developer",
+    "role": "Backend",
+    "level": "Junior",
+    "postedAt": "2w ago",
+    "contract": "Full Time",
+    "location": "UK Only",
+    "languages": ["Ruby"],
+    "tools": ["RoR"]
   }
 ]
